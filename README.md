@@ -1,2 +1,1 @@
-# ProjetoCordel
-Projeto HTML simples com efeito paralax sobre o cordel de Milton Duarte.
+Projeto feito apenas com HTML & CSS. Um site desenvolvido rapidamente mas que me deixou muito satisfeito por me ajudar a explorar mais e aprender sobre responsividade de imagens e sobre o efeito paralax gerado na fixação das imagens ao fundo. Projeto simples e bonito, pra dar uma enfeitada no github. Acesse na sua própria máquina em: https://d34uthy.github.io/ProjetoCordel
